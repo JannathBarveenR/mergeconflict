@@ -1,1 +1,1 @@
-Amount: 6000
+Amount:6000
